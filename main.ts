@@ -9,10 +9,18 @@ namespace Jet_Mole {
         foreward = 1,
         //% block="moves backward"
         backward = 2,
-        //% block="sways to left side"
+        //% block="sways to the left side"
         leftward = 3,
-        //% block="sways to right side"
-        rightward = 4
+        //% block="sways to the right side"
+        rightward = 4,
+        //% block="moves foreward to the left side"
+        forewardleft = 5,
+        //% block="moves foreward to the right side"
+        forewardright = 6,
+        //% block="moves backward to the left side"
+        backwardleft = 7,
+        //% block="moves backward to the right side"
+        backwardright = 8
     }
     export enum rotateDir {
         //% block="foreward"
@@ -60,6 +68,30 @@ namespace Jet_Mole {
                 break
             case 4:
                 pins.analogWritePin(AnalogPin.P13, power)
+                pins.digitalWritePin(DigitalPin.P14, 0)
+                pins.analogWritePin(AnalogPin.P15, power)
+                pins.digitalWritePin(DigitalPin.P16, 0)
+                break
+            case 5:
+                pins.analogWritePin(AnalogPin.P13, power)
+                pins.digitalWritePin(DigitalPin.P14, 0)
+                pins.digitalWritePin(DigitalPin.P15, 0)
+                pins.digitalWritePin(DigitalPin.P16, 0)
+                break
+            case 6:
+                pins.digitalWritePin(DigitalPin.P13, 0)
+                pins.digitalWritePin(DigitalPin.P14, 0)
+                pins.digitalWritePin(DigitalPin.P15, 0)
+                pins.analogWritePin(AnalogPin.P16, power)
+                break
+            case 7:
+                pins.digitalWritePin(DigitalPin.P13, 0)
+                pins.analogWritePin(AnalogPin.P14, power)
+                pins.digitalWritePin(DigitalPin.P15, 0)
+                pins.digitalWritePin(DigitalPin.P16, 0)
+                break
+            case 8:
+                pins.digitalWritePin(DigitalPin.P13, 0)
                 pins.digitalWritePin(DigitalPin.P14, 0)
                 pins.analogWritePin(AnalogPin.P15, power)
                 pins.digitalWritePin(DigitalPin.P16, 0)
