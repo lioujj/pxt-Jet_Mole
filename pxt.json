@@ -1,0 +1,15 @@
+{
+    "name": "Jet_Mole",
+    "version": "0.0.1",
+    "description": "這是專為Twin Drill Jet Mole提供的控制積木(This is the extension for Twin Drill Jet Mole)",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh-tw/Jet_Mole-strings.json"
+    ],
+    "public": true
+}
