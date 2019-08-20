@@ -14,6 +14,6 @@
     "Jet_Mole.motor.right|block":"右",
     "Jet_Mole.moveAll|block":"設定Jet Mole移動方式： %myDir | 馬力：(0~1023) %power",
     "Jet_Mole.stop|block":"Jet Mole停止移動",
-    "Jet_Mole.motorRotate|block":"設定 %myMotor 邊鑽頭 | %myDir | 馬力：(0~511) %power",
+    "Jet_Mole.motorRotate|block":"設定 %myMotor 邊鑽頭 | %myDir | 馬力：(0~1023) %power",
     "Jet_Mole.stopSingleMotor|block":"停止 %myMotor 邊鑽頭轉動"
 }
