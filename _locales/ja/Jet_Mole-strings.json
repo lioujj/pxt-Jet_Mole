@@ -1,0 +1,19 @@
+{
+    "Jet_Mole|block":"ジェットモグラ",
+    "Jet_Mole.Directions.foreward|block":"前進",
+    "Jet_Mole.Directions.backward|block":"後退",
+    "Jet_Mole.Directions.leftward|block":"左横",
+    "Jet_Mole.Directions.rightward|block":"右横",
+    "Jet_Mole.Directions.forewardleft|block":"左ななめ前進",
+    "Jet_Mole.Directions.forewardright|block":"右ななめ前進",
+    "Jet_Mole.Directions.backwardleft|block":"左ななめ後退",
+    "Jet_Mole.Directions.backwardright|block":"右ななめ後退",
+    "Jet_Mole.rotateDir.foreward|block":"前進",
+    "Jet_Mole.rotateDir.backward|block":"後退",
+    "Jet_Mole.motor.left|block":"左",
+    "Jet_Mole.motor.right|block":"右",
+    "Jet_Mole.moveAll|block":"ジェットモグラ 動かす 方向 %myDir| 強さ(0～1023) %power",
+    "Jet_Mole.stop|block":"ジェットモグラ 止める",
+    "Jet_Mole.motorRotate|block":"ジェットモグラ モーター %myMotor| 方向 %myDir| 強さ(0～1023) %power",
+    "Jet_Mole.stopSingleMotor|block":"ジェットモグラ モーター %myMotor| 止める"
+}
