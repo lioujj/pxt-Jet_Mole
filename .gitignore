@@ -1,0 +1,7 @@
+_locales/Jet_Mole-jsdoc-strings.json
+_locales/Jet_Mole-strings.json
+built
+node_modules
+package-lock.json
+pxt_modules
+tsconfig.json
