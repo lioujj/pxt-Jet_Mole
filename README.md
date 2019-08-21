@@ -9,11 +9,11 @@ Liou Zheng-Ji\
 [My page, https://sites.google.com/jes.mlc.edu.tw/ljj/](https://sites.google.com/jes.mlc.edu.tw/ljj/)
 
 ## Description
-![image](images/jet_mole.jpg)
+![image](images/jet_mole.jpg)\
 If you want the detail description, please visit my website:\
 [https://sites.google.com/jes.mlc.edu.tw/ljj/microbit開發板/microbit積木/twin-drill-jet-mole積木](https://sites.google.com/jes.mlc.edu.tw/ljj/microbit開發板/microbit積木/twin-drill-jet-mole積木)\
 
-## Video: Control the Jet Mole by joystick 
+## Video: Control the Jet Mole by a joystick 
 [![click here to see the sample video](https://img.youtube.com/vi/0uO_tArxPAQ/0.jpg)](https://www.youtube.com/watch?v=0uO_tArxPAQ)
 
 ## Video: Control the Jet Mole by single micro:bit 
