@@ -10,7 +10,8 @@
         "README.md",
         "main.ts",
         "_locales/zh-tw/Jet_Mole-strings.json",
-        "_locales/ja/Jet_Mole-strings.json"
+        "_locales/ja/Jet_Mole-strings.json",
+        "_locales/ja/Jet_Mole-jsdoc-strings.json"
     ],
     "public": true
 }

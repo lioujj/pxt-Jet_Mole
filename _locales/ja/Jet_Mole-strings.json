@@ -14,6 +14,6 @@
     "Jet_Mole.motor.right|block":"右",
     "Jet_Mole.moveAll|block":"ジェットモグラ 動かす 方向 %myDir| 強さ(0～1023) %power",
     "Jet_Mole.stop|block":"ジェットモグラ 止める",
-    "Jet_Mole.motorRotate|block":"ジェットモグラ モーター %myMotor| 方向 %myDir| 強さ(0～1023) %power",
-    "Jet_Mole.stopSingleMotor|block":"ジェットモグラ モーター %myMotor| 止める"
+    "Jet_Mole.motorRotate|block":"ジェットモグラ ドリル %myMotor| 方向 %myDir| 強さ(0～1023) %power",
+    "Jet_Mole.stopSingleMotor|block":"ジェットモグラ ドリル %myMotor| 止める"
 }

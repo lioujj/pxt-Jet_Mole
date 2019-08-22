@@ -1,0 +1,7 @@
+{
+  "Jet_Mole": "ツインドリル\"ジェットモグラ号\"",
+  "Jet_Mole.motorRotate": "ジェットモグラのドリルを個別に回転させます。",
+  "Jet_Mole.moveAll": "ジェットモグラを動かします。",
+  "Jet_Mole.stop": "ジェットモグラの動きを停止します。",
+  "Jet_Mole.stopSingleMotor": "ジェットモグラのドリルを個別に停止します。"
+}
